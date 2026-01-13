@@ -45,6 +45,14 @@ Atualmente com foco em novos projetos que impactem pessoas enquanto desenvolvo n
 />
 <img 
     align="left" 
+    alt="NodeJs"
+    title="NodeJs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
