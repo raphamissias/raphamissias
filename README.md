@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, sou um desenvolvedor Full Stack, com foco em Back-End. Tenho experiência em desenvolvimento usando C#/Python/Node.js, em integrações de sistemas para otimização de ambientes produtivos reais. Dedicado a compreender e facilitar processos, traduzindo requisitos técnicos em soluções de software. 
+Sou um desenvolvedor Full Stack com foco em Back-End. Tenho experiência em desenvolvimento usando C#/Python/Node.js, em integrações de sistemas para otimização de ambientes produtivos reais. Dedicado a compreender e facilitar processos, traduzindo requisitos técnicos em soluções de software. 
 
 ---
 
